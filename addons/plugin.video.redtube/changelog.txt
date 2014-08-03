@@ -1,0 +1,14 @@
+[B]Version 0.0.5[/B]
+    * Fixed due to site changes
+
+[B]Version 0.0.4[/B]
+    * Fix for Gotham incompatibility
+
+[B]Version 0.0.3[/B]
+    * Minor fixes
+
+[B]Version 0.0.2[/B]
+    * Fixed due to site changes
+
+[B]Version 0.0.1[/B]
+    * Initial release
