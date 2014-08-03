@@ -1,0 +1,24 @@
+[B]Version 0.0.8[/B]
+    * Fix for Gotham incompatibility
+
+[B]Version 0.0.7[/B]
+    * Bug fix..
+    * Some links require multiple attempts still
+
+[B]Version 0.0.6[/B]
+    * Bug fix..
+
+[B]Version 0.0.5[/B]
+    * Site changes..
+
+[B]Version 0.0.4[/B]
+    * Fixed due to site changes..
+
+[B]Version 0.0.3[/B]
+    * Added more categories.
+
+[B]Version 0.0.2[/B]
+    * Opens on Home page now with a separate categories link.
+
+[B]Version 0.0.1[/B]
+    * Initial release
