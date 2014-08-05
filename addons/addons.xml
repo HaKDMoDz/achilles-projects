@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.MyPinoyTv"
-  name="MyPinoyTV"
-  version="0.0.1"
-  provider-name="achilles">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <platform>all</platform>
-    <summary>MyPinoyTV Add-on</summary>
-    <description>A simple add-on for MyPinoyTV</description>
-  </extension>
-</addon>
-
 <addon id="repository.googlecode.achilles-projects" name="achilles addons" version="1.0.0" provider-name="achilles">
   <extension point="xbmc.addon.repository" name="achilles add-on repository">
     <info compressed="false">http://achilles-projects.googlecode.com/svn/addons/addons.xml</info>
