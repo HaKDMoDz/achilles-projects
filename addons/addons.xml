@@ -68,10 +68,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.beeg"
-  name="beeg (Adult)"
-  version="0.0.8"
-  provider-name="achilles">
+<addon id="plugin.video.beeg" name="beeg.com (Adult)" version="1.0.0" provider-name="achilles">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -79,9 +76,16 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+    <summary lang="en">beeg (Adult)</summary>
+    <description lang="en">Video add-on for beeg.com.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
     <platform>all</platform>
-    <summary>beeg Video Add-on</summary>
-    <description>A simple add-on for beeg.com (Adult)</description>
+    <license></license>
+    <forum></forum>
+    <website>https://code.google.com/p/achilles-projects/</website>
+    <email></email>
+    <source></source>
   </extension>
 </addon>
 

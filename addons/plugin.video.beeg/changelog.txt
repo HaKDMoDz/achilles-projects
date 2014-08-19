@@ -1,3 +1,6 @@
+[B]Version 1.0.0[/B]
+    * Deserved a little attention some and a bump to 1.0.0
+
 [B]Version 0.0.8[/B]
     * Fix for Gotham incompatibility
 
