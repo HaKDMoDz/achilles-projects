@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.drtuber"
+  name="DrTuber (Adult)"
+  version="1.0.0"
+  provider-name="achilles">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>DrTuber Video Add-on</summary>
+    <description>A simple add-on for DrTuber.com (Adult)</description>
+  </extension>
+</addon>
